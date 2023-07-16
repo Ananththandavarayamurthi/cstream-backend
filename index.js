@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 app.use(cors());
 connectDB()
 
-
+console.log("hi")
 // Define routes
 app.use('/api/organizations', organizationRoutes);
 app.use('/api/employees', employeeRoutes);
