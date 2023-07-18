@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": ">=NODE_JS_VERSION"
+    "node": ">=14.20.1"
 },
   "scripts": {
     "start": "node index.js",
